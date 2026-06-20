@@ -1,4 +1,4 @@
 # first-demo
 this is just for fun my first repo..
 <br>
-Author -- JAIMAN RANJAN
+Author -- JAIMAN RANJAN {College Student}
